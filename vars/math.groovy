@@ -1,5 +1,4 @@
-{In groovy if we print anything, the print statement is "echo"} 
-================================================================================================
+
 
 def sum(a,b)
 {
